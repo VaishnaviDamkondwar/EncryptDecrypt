@@ -33,9 +33,9 @@ const Taskbar = () => {
     return (
         <div id='taskbar'>
             <div id='tb-left'>
-                <a href='https://github.com/Pratyush-Nirwan/EncryptDecrypt' target='_blank' id='github-link'>
+                <a href='https://github.com/Vaishnavi-Damkondwar/EncryptDecrypt' target='_blank' id='github-link'>
                     <FaGithub />
-                    <h5>github.com/Pratyush-Nirwan</h5>
+                    <h5>github.com/Vaishnavi-Damknodwar</h5>
                 </a>
             </div>
             <div id='tb-right'>
